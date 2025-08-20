@@ -1,7 +1,3 @@
-Of course\! Here is a simple and engaging README file for your GitHub repository. Just copy and paste the content below into a file named `README.md` in your project's root directory.
-
------
-
 # 📐 Agri-Extent Calsi: The Smart Land Area Calculator
 
 Tired of manually adding up land areas from messy spreadsheets? 😫 This handy Streamlit web app automates the process, letting you calculate the total land area in **Acres and Guntas** directly from your Excel files. No more manual math, no more errors\!
